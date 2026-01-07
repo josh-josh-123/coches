@@ -37,5 +37,5 @@ Gráfica de dispersión "Relación entre año y precio:
     - vehicles_us.csv - dataset utililzado
 
 6. Enlace a la aplicación desplegada
-
-URL de tu aplicación en Render (cuando la despliegues)
+    
+    https://usa-used-cars-market.onrender.com
